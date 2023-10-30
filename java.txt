@@ -1,0 +1,26 @@
+Java\\
+
+~> What is Java?
+-  Java is a popular programming language, created in 1995.
+   It is used for :-
+   - Mobile Application (Specially android apps)
+   - Desktop, Web Application
+   - Web Servers
+   - Database connection
+
+- Single-line comments (//) 
+- Multi-line comments start with /* and ends with */
+
+~> Data Types
+-  Data types are divided into two types:
+    - Primitive data types - includes byte, short, int, long, float, double, boolean and char
+    - Non-primitive data types - such as String, Arrays and Classes
+~> Java Arrays
+- Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+~> Java Method
+- A method is a block of code which only runs when it is called.
+- Methods are used to perform certain actions, and they are also known as functions.
+
+
+
