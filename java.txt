@@ -22,5 +22,9 @@ Java\\
 - A method is a block of code which only runs when it is called.
 - Methods are used to perform certain actions, and they are also known as functions.
 
+Method Overloading-
+- Method overloading allows you to define multiple methods with the same name in the same class, but with different parameter lists. 
+- 
+
 
 
