@@ -25,6 +25,14 @@ Java\\
 Method Overloading-
 - Method overloading allows you to define multiple methods with the same name in the same class, but with different parameter lists. 
 - 
+    Benefits:
+    - Increases the readibility of the programme
+    - Reduces execution time, Bcoz the binding is done in compilation time itself.
+    - Can be called again for different types of data, which minimises the code complexity,saves memory and is flexible for programmers.
 
+Java Array
+- Java array is an object which contains elements of a similar data types.
+- Elements of an array are stored in contiguous memorylocation.
+- 
 
 
